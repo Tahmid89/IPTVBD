@@ -12,7 +12,7 @@ http://tv.mototvlive.net:25461/test3575/3467844/1341
 #EXTINF:-1 tvg-id="" tvg-name=" CHANNEL I" tvg-logo="https://www.myflixbd.com/uploads/tv_image/channel-i.png" group-title="BANGLADESHI", CHANNEL I
 http://tv.mototvlive.net:25461/test3575/3467844/1295
 #EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQR6AwNfnZ1Vy9pv5zlv5q62aFMeL7xwViVtj9MTg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",EKUSHEY TV HD
-http://tv.mototvlive.net:25461/test3575/3467844/1315
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEXUS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JKtLc9p_KBuXbiaOafBYdAUlNR3B6lu1wXjW1yKRZKHi9_VPiq9SVD8VYmqD_4F8GfA&usqp=CAU" group-title="BANGLADESHI",NEXUS TV
 http://tv.mototvlive.net:25461/test3575/3467844/2820
 #EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI",N TV
@@ -61,6 +61,7 @@ http://tv.mototvlive.net:25461/test3575/3467844/1300
 http://tv.mototvlive.net:25461/test3575/3467844/1326
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
 http://172.20.2.5:8082/EKATTOR-TV/tracks-v1a1/mono.m3u8
+
 
 
 
