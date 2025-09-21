@@ -54,10 +54,11 @@ http://tv.mototvlive.net:25461/test3575/3467844/4096
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLADESHI",JAMUNA TV HD
 http://tv.mototvlive.net:25461/test3575/3467844/3452
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY TV HD
-http://tv.mototvlive.net:25461/test3575/3467844/3178
+http://172.20.2.5:8082/SOMOY-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/ATN_News_Logo_3.GIF" group-title="BANGLADESHI",ATN NEWS
 http://tv.mototvlive.net:25461/test3575/3467844/1300
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
 http://tv.mototvlive.net:25461/test3575/3467844/1326
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
 http://tv.mototvlive.net:25461/test3575/3467844/1310
+
