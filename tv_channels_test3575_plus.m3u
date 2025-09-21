@@ -60,7 +60,8 @@ http://tv.mototvlive.net:25461/test3575/3467844/1300
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
 http://tv.mototvlive.net:25461/test3575/3467844/1326
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
-http://tv.mototvlive.net:25461/test3575/3467844/1310
+http://172.20.2.5:8082/EKATTOR-TV/tracks-v1a1/mono.m3u8
+
 
 
 
