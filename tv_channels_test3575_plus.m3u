@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="https://i.ibb.co/tqgNdPh/images.png" group-title="BANGLADESHI",BTV
-http://tv.mototvlive.net:25461/test3575/3467844/1746
+#EXTINF:-1 tvg-id="" tvg-name="BTV News" tvg-logo="https://i.ibb.co/tqgNdPh/images.png" group-title="BANGLADESHI",BTV
+http://172.20.2.5:8082/BTV-NEWS/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BTV CTG" tvg-logo="https://www.protidinerchitrobd.com/media/imgAll/2020January/btv-chittagong-2001251041.jpg" group-title="BANGLADESHI",BTV CTG
 http://tv.mototvlive.net:25461/test3575/3467844/1635
 #EXTINF:-1 tvg-id="" tvg-name="BTV WORLD" tvg-logo="https://live.staticflickr.com/8163/7570254906_e5ac26aae2_m.jpg" group-title="BANGLADESHI",BTV WORLD
@@ -48,7 +48,7 @@ http://tv.mototvlive.net:25461/test3575/3467844/1298
 #EXTINF:-1 tvg-id="" tvg-name="ANANDA TV" tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-title="BANGLADESHI",ANANDA TV
 http://tv.mototvlive.net:25461/test3575/3467844/1312
 #EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESHI", DURONTO TV
-http://tv.mototvlive.net:25461/test3575/3467844/1778
+http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.pinimg.com/originals/8a/c8/d9/8ac8d97b03dfe18e0e4d6b68e8b198d0.jpg" group-title="BANGLADESHI",CHANNEL 24 HD
 http://tv.mototvlive.net:25461/test3575/3467844/4096
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLADESHI",JAMUNA TV HD
@@ -63,6 +63,7 @@ http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8
 http://172.20.2.5:8082/EKATTOR-TV/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
+
 
 
 
