@@ -24,7 +24,7 @@ http://172.20.2.5:8082/BOISHAKI-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" BANGLAVISION" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e5a3623302383.5632207f99dba.jpg" group-title="BANGLADESHI", BANGLAVISION
 http://172.20.2.5:8082/BANGLAVISION-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" MY TV" tvg-logo="https://bdyellowpages.net/upload/4230290_logo_for_news_12741678,192x192,r-1.jpg" group-title="BANGLADESHI", MY TV
-http://tv.mototvlive.net:25461/test3575/3467844/1308
+https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DESH TV" tvg-logo="https://2.bp.blogspot.com/-9EB96ZSuOMw/WHSSgQ3NkTI/AAAAAAAAFzE/hrs2OdLhrVw5zqVfGQn5cDdCq2PrL2DhACLcB/w1200-h630-p-k-no-nu/desh-tv-2.jpg" group-title="BANGLADESHI",DESH TV
 http://tv.mototvlive.net:25461/test3575/3467844/1320
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/UU3a2v6E7Zs.png" group-title="BANGLADESHI",MOHONA TV
@@ -40,7 +40,7 @@ http://tv.mototvlive.net:25461/test3575/3467844/2727
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",SA TV
 http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-title="BANGLADESHI",DEEPTO TV HD
-http://tv.mototvlive.net:25461/test3575/3467844/2659
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BANGLADESHI",BANGLA TV HD
 http://172.20.2.5:8082/221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="BANGLADESHI",NAGORIK TV
@@ -50,17 +50,20 @@ http://172.20.2.5:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESHI", DURONTO TV
 http://172.20.3.1:81/DurontoTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.pinimg.com/originals/8a/c8/d9/8ac8d97b03dfe18e0e4d6b68e8b198d0.jpg" group-title="BANGLADESHI",CHANNEL 24 HD
-http://tv.mototvlive.net:25461/test3575/3467844/4096
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLADESHI",JAMUNA TV HD
-http://tv.mototvlive.net:25461/test3575/3467844/3452
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY TV HD
 http://172.20.2.5:8082/DEEPTO-TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESHI",Ekhon TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
 http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
-http://172.20.2.5:8082/EKATTOR-TV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
+
 
 
 
