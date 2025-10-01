@@ -44,7 +44,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BANGLADESHI",BANGLA TV HD
 http://172.20.2.5:8082/221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="BANGLADESHI",NAGORIK TV
-http://tv.mototvlive.net:25461/test3575/3467844/1298
+http://172.20.3.1:81/NagorikTVHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-title="BANGLADESHI",BIJOY TV
 http://172.20.2.5:8082/BIJOY-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESHI", DURONTO TV
@@ -63,6 +63,7 @@ http://172.20.2.5:8082/INDPENDENT-TV/tracks-v1a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports
 http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8
+
 
 
 
