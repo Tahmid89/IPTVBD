@@ -44,7 +44,7 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTs-UbDtNm94uRZQ3PYFoHIVx9FFM1f25xlz9vSPg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",ASIAN TV HD
 http://tv.mototvlive.net:25461/test3575/3467844/2727
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",SA TV
-http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8
+http://172.20.2.5:8082/SATV/tracks-v1a1/mono.m3u8?token=12327d4be1346f0794bcb906a30bddd2ac1d7133-09cb482d6e117bfa65273bcaecb67a22-1760378824-1760368024
 #EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-title="BANGLADESHI",DEEPTO TV HD
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BANGLADESHI",BANGLA TV HD
@@ -73,6 +73,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://172.20.3.1:81/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports S1 Ultra
 http://172.20.2.5:8082/T-SPORTS/tracks-v1a1/mono.m3u8
+
 
 
 
