@@ -12,7 +12,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="BANGLADESHI", DBC NEWS HD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLADESHI", NEWS 24 HD
-http://172.20.3.1:81/News24HD/tracks-v1a1/mono.m3u8
+http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8?token=0ae64e5d439cc82a8f71ff52dffac4ad509bc609-e938a1f20dc1081a0e5d07fb00098c11-1760717901-1760707101
 #EXTINF:-1 tvg-id="" tvg-name=" CHANNEL I" tvg-logo="https://www.myflixbd.com/uploads/tv_image/channel-i.png" group-title="BANGLADESHI", CHANNEL I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQR6AwNfnZ1Vy9pv5zlv5q62aFMeL7xwViVtj9MTg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",EKUSHEY TV HD
@@ -38,11 +38,11 @@ https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_0dQEjwhReWu9w0BtzMZaGJuvN_VHZtCQg&usqp=CAU" group-title="BANGLADESHI",CHANNEL 9
 http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRSdLFIuLZNFs86aFOwpLe8yHEFP4cN2ebCxi1s=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",GAZI TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+http://zflixbd.com:8083/live-5/tracks-v1a1/mono.m3u8?token=a1ab8b6198ab01837aab88db35a4d9c755174388-2b2ef97a2738ab476d2755be6c703f5e-1760717584-1760706784
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="BANGLADESHI",Peace tv Bangla
 https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASIAN TV HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTs-UbDtNm94uRZQ3PYFoHIVx9FFM1f25xlz9vSPg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",ASIAN TV HD
-http://172.20.3.1:81/AsianTV/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRnQHs5kqHSl-LdD8iyVongJxeYEVLvE7C_PhJHrg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",SA TV
 
 #EXTINF:-1 tvg-id="" tvg-name="DEEPTO TV HD" tvg-logo="https://cdn.risingbd.com/media/imgAll/2020April/bg/dipto-risingbd20200417082428.jpg" group-title="BANGLADESHI",DEEPTO TV HD
@@ -50,9 +50,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BANGLADESHI",BANGLA TV HD
 
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="BANGLADESHI",NAGORIK TV
-http://172.20.3.1:81/NagorikTVHD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-title="BANGLADESHI",BIJOY TV
 
+#EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-title="BANGLADESHI",BIJOY TV
+http://zflixbd.com:8083/BijoyTV/tracks-v1a1/mono.m3u8?token=72ea8a9e474cea29101569624d1421fc01d93b50-11be305a6ab20ec3b373a7207677fc3e-1760717791-1760706991
 #EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESHI", DURONTO TV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 24 HD" tvg-logo="https://i.pinimg.com/originals/8a/c8/d9/8ac8d97b03dfe18e0e4d6b68e8b198d0.jpg" group-title="BANGLADESHI",CHANNEL 24 HD
@@ -73,6 +73,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://172.21.22.23/funtvlive/funtvlive/521.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports S1 Ultra
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+
 
 
 
