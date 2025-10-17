@@ -22,7 +22,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="N TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLADESHI",N TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="R TV" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/yvvEywo6J8F.png" group-title="BANGLADESHI",R TV
-
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOUSHAKHI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSq_CwvuXg0RUoEd2qaCVAsSNQG9sQ1NJAQBf5E=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",BOUSHAKHI TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" BANGLAVISION" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3e5a3623302383.5632207f99dba.jpg" group-title="BANGLADESHI", BANGLAVISION
@@ -62,7 +62,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESHI",Ekhon TV
-http://172.20.3.1:81/EkhonTV/tracks-v1a1/mono.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
@@ -73,6 +73,7 @@ http://116.204.149.16/t_sports/index.m3u8
 http://172.21.22.23/funtvlive/funtvlive/521.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports S1 Ultra
 http://103.151.60.204/T-Sports/tracks-v1a1/mono.m3u8
+
 
 
 
