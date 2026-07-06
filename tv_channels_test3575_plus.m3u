@@ -12,7 +12,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png" group-title="BANGLADESHI", DBC NEWS HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png" group-title="BANGLADESHI", NEWS 24 HD
-http://zflixbd.com:8083/News24/tracks-v1a1/mono.m3u8?token=0ae64e5d439cc82a8f71ff52dffac4ad509bc609-e938a1f20dc1081a0e5d07fb00098c11-1760717901-1760707101
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" CHANNEL I" tvg-logo="https://www.myflixbd.com/uploads/tv_image/channel-i.png" group-title="BANGLADESHI", CHANNEL I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="EKUSHEY TV HD" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQR6AwNfnZ1Vy9pv5zlv5q62aFMeL7xwViVtj9MTg=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",EKUSHEY TV HD
@@ -34,9 +34,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOHONA TV" tvg-logo="https://cdn.bioscopelive.com/upload/channels/landscape/UU3a2v6E7Zs.png" group-title="BANGLADESHI",MOHONA TV
 
 #EXTINF:-1 tvg-id="" tvg-name="MASRANGA TV" tvg-logo="https://wowhomelife.com/wp-content/uploads/2021/05/Maasranga-Tv-All-Satellite-New-biss-key-2021-390x220.jpg" group-title="BANGLADESHI",MASRANGA TV
-https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CHANNEL 9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_0dQEjwhReWu9w0BtzMZaGJuvN_VHZtCQg&usqp=CAU" group-title="BANGLADESHI",CHANNEL 9
-http://172.20.3.1:81/CHannel9HD/tracks-v1a1/mono.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GAZI TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRSdLFIuLZNFs86aFOwpLe8yHEFP4cN2ebCxi1s=s900-c-k-c0x00ffffff-no-rj" group-title="BANGLADESHI",GAZI TV
 http://zflixbd.com:8083/live-5/tracks-v1a1/mono.m3u8?token=a1ab8b6198ab01837aab88db35a4d9c755174388-2b2ef97a2738ab476d2755be6c703f5e-1760717584-1760706784
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="BANGLADESHI",Peace tv Bangla
@@ -64,7 +64,7 @@ https://live.thebosstv.com/dwlive/Somoy-TV/chunks.m3u8?nimblesessionid=54923144
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESHI",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/independent-8-org.stream/playlist.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" EKATTOR TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/bd-ekattor-tv-2692.jpg" group-title="BANGLADESHI", EKATTOR TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="BANGLADESHI", T Sports
