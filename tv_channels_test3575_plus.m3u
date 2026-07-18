@@ -50,7 +50,7 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANGLA TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8d/Bangla_Tv_Logo.jpg" group-title="BANGLADESHI",BANGLA TV HD
 
 #EXTINF:-1 tvg-id="" tvg-name="NAGORIK TV" tvg-logo="https://i.pinimg.com/originals/ec/a7/20/eca720aa9f51dceffb8145020e9aaa47.jpg" group-title="BANGLADESHI",NAGORIK TV
-
+http://172.20.21.22/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BIJOY TV" tvg-logo="https://i.pinimg.com/280x280_RS/80/b0/78/80b078bc83d20b33f463f63eb5a02c52.jpg" group-title="BANGLADESHI",BIJOY TV
 
 #EXTINF:-1 tvg-id="" tvg-name=" DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLADESHI", DURONTO TV
@@ -60,7 +60,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="JAMUNA TV HD" tvg-logo="http://www.deshibiz.com/img/media/post/1463733058_jamunatv6.jpg" group-title="BANGLADESHI",JAMUNA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SOMOY TV HD" tvg-logo="https://cdn.mos.cms.futurecdn.net/j8qVSzynsJdmJKLHqptq7L.png" group-title="BANGLADESHI",SOMOY TV HD
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+http://172.20.21.22/live/skyfeed1004/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)(m3u4u)" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png" group-title="BANGLADESHI",Ekhon TV
 
 #EXTINF:-1 tvg-id="" tvg-name="INDEPENDENT TELEVISION" tvg-logo="http://livetv.com.bd/wp-content/uploads/2019/12/Independent-TV.png" group-title="BANGLADESHI",INDEPENDENT TELEVISION
